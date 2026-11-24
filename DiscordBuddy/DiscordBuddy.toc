@@ -1,0 +1,11 @@
+## Interface: 16001, 11509, 20506, 50504
+## Title: DiscordBuddy
+## Notes: Posts your level-ups, milestones and a weekly recap to a Discord channel. Requires the free DiscordBuddy Companion app on your PC.
+## Author: MrBozo
+## Version: 1.0.0
+## SavedVariables: DiscordBuddyDB
+## IconTexture: Interface\Icons\Achievement_Level_10
+
+DiscordBuddy.lua
+Recap.lua
+Events.lua
